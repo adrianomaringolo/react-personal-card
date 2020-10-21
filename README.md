@@ -1,3 +1,5 @@
+This project is created for a training demonstration porpose. Feel free to fork, clone or contribute to evolve.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
