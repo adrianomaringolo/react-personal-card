@@ -14,8 +14,9 @@ const IntroCard = () => {
       <Badge word={displayWord} />
       <h1>I'm {userName}</h1>
 
-      <p className="top-border">Front-end developer and instructor</p>
-      <p>Find me on:</p>
+      <p className="top-border">Front-end developer. Parent of an one-year-old boy. Passionate about technologies, learning and teaching a little bit about a lot of things.</p>
+      <p className="top-border">Campinas, São Paulo, Brazil</p>
+      <p className="top-border">Find me on:</p>
 
       <p>
         <Icon name="github"
